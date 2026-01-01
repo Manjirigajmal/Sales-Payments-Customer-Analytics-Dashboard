@@ -9,7 +9,7 @@
 
 **Transform raw Excel data into intelligent, automated BI dashboards using Excel VBA and Power BI**
 
-[View Dashboard](#dashboard-overview) • [Features](#key-features) • [Technologies](#technologies-used) • [Installation](#installation) • [Usage](#usage) • [Results](#key-results)
+
 
 </div>
 
